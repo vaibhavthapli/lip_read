@@ -1,0 +1,6 @@
+opencv-python
+matplotlib
+tensorflow[and-cuda]
+imageio
+gdown
+numpy
