@@ -1,5 +1,5 @@
-# Lip Read Model
-
+# LipSense
+"A smart and inituitive lip-reading assistant."
 ## Overview
 The **Lip Read Model** is an advanced machine learning system designed for lip-reading applications, leveraging OpenCV, TensorFlow, and other essential libraries. This project aims to enhance communication accessibility, particularly for individuals with hearing impairments, by accurately interpreting lip movements.
 
